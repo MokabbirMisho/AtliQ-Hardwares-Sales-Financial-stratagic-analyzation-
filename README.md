@@ -1,13 +1,13 @@
 # AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-
 
 ### Project Statement: 
-AtliQ Hardwares is a leading company which supplies products such as computer hardware and peripherals to clients across the world.
+AtliQ Hardware is a leading company that supplies products such as computer hardware and peripherals to clients worldwide.
 
-AtliQ Hardware faces the challenge of optimizing sales and improving net gross margins and my role was to create the sales and financial report to analyze its performance in the market for the year 2019, 2020 and 2021.
+AtliQ Hardware faces the challenge of optimizing sales and improving net gross margins and my role was to create the sales and financial report to analyze its performance in the market for 2019, 2020 and 2021.
 
 ### Project Objective:
-Analyze over half a million records of unorganized sales data, employing extensive ETL techniques. Identify sales patterns and track key performance indicators (KPIs, that will empower AtliQ Hardwares to monitor and evaluate their sales activities and performance. Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-My ultimate aim is to drive substantial improvements in the company's performance, centered around net sales and net gross margin.
+Analyze over half a million records of unorganized sales data, employing extensive ETL techniques. Identify sales patterns and track key performance indicators (KPIs, that will empower AtliQ Hardware to monitor and evaluate their sales activities and performance. Evaluation of financial performance, support decision-making and facilitate communication with stakeholders.
+My ultimate aim is to drive substantial improvements in the company's performance, centred around net sales and net gross margin.
 
 #### Tools/Features Used:
 • Microsoft Excel
@@ -26,6 +26,7 @@ My ultimate aim is to drive substantial improvements in the company's performanc
 • Data-driven decision making.
 
 #### Dashboard
-**1.** Create a _[customer performance report](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Customer%20Performance%20Report.pdf)
-
-
+**1.** _[customer performance report](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Customer%20Performance%20Report.pdf)
+**2.** _[market performance and sales targets](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Market%20Performance%20vs%20Target.pdf)
+**3.** _[Profit & Loss Statement by Months](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Profit%20%26%20Loss%20Statement%20by%20Months.pdf)
+**4.** _[Profit & Loss Statement by Markets](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Profit%20%26%20Loss%20Statement%20by%20Markets.pdf)
