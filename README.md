@@ -1,12 +1,12 @@
 # AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-
 
 ### Project Statement: 
-AtliQ Hardware is a leading company that supplies products such as computer hardware and peripherals to clients worldwide.
+AtliQ Hardwares is a leading company that supplies products such as computer hardware and peripherals to clients worldwide.
 
-AtliQ Hardware faces the challenge of optimizing sales and improving net gross margins and my role was to create the sales and financial report to analyze its performance in the market for 2019, 2020 and 2021.
+AtliQ Hardwares faces the challenge of optimizing sales and improving net gross margins and my role was to create the sales and financial report to analyze its performance in the market for 2019, 2020 and 2021.
 
 ### Project Objective:
-Analyze over half a million records of unorganized sales data, employing extensive ETL techniques. Identify sales patterns and track key performance indicators (KPIs, that will empower AtliQ Hardware to monitor and evaluate their sales activities and performance. Evaluation of financial performance, support decision-making and facilitate communication with stakeholders.
+Analyze over half a million records of unorganized sales data, employing extensive ETL techniques. Identify sales patterns and track key performance indicators (KPIs, that will empower AtliQ Hardwares to monitor and evaluate their sales activities and performance. Evaluation of financial performance, support decision-making and facilitate communication with stakeholders.
 My ultimate aim is to drive substantial improvements in the company's performance, centred around net sales and net gross margin.
 
 #### Tools/Features Used:
