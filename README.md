@@ -26,6 +26,6 @@ My ultimate aim is to drive substantial improvements in the company's performanc
 • Data-driven decision making.
 
 #### Dashboard
-**1.** Create a _[customer performance report]https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Customer%20Performance%20Report.pdf
+**1.** Create a _[customer performance report](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Customer%20Performance%20Report.pdf)
 
 
