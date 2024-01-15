@@ -27,6 +27,9 @@ My ultimate aim is to drive substantial improvements in the company's performanc
 
 #### Dashboard
 **1.** _[customer performance report](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Customer%20Performance%20Report.pdf)
+
 **2.** _[market performance and sales targets](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Market%20Performance%20vs%20Target.pdf)
+
 **3.** _[Profit & Loss Statement by Months](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Profit%20%26%20Loss%20Statement%20by%20Months.pdf)
+
 **4.** _[Profit & Loss Statement by Markets](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Profit%20%26%20Loss%20Statement%20by%20Markets.pdf)
