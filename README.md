@@ -10,20 +10,20 @@ Analyze over half a million records of unorganized sales data, employing extensi
 My ultimate aim is to drive substantial improvements in the company's performance, centred around net sales and net gross margin.
 
 #### Tools/Features Used:
-• Microsoft Excel
-• Power Query (Data Cleaning & Transformation)
-• Power Pivot (Data Modeling)
-• Pivot Table (Data Summarization)
-• DAX Measures (To create Calculated Columns)
-• Conditional Formatting
+- Microsoft Excel
+- Power Query (Data Cleaning & Transformation)
+- Power Pivot (Data Modeling)
+- Pivot Table (Data Summarization)
+- DAX Measures (To create Calculated Columns)
+- Conditional Formatting
 
 #### Knowledge Gain:
-• ETL Pipeline
-• Data Cleaning
-• Data Representation
-• Business Domain Knowledge
-• Business Insights
-• Data-driven decision making.
+- ETL Pipeline
+- Data Cleaning
+- Data Representation
+- Business Domain Knowledge
+- Business Insights
+- Data-driven decision making.
 
 #### Dashboard
 **1.** _[customer performance report](https://github.com/MokabbirMisho/AtliQ-Hardwares-Sales-Financial-stratagic-analyzation-/blob/main/Customer%20Performance%20Report.pdf)
